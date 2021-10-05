@@ -9,7 +9,7 @@
 
 ✟︙ الكود ،
 
-git clone https://github.com/TEAMYOUSSRY/YOUSSRY.git && cd YOUSSRY  && chmod +x tg && chmod +x RUNFA.sh && chmod +x FA && ./RUNFA.sh
+git clone https://github.com/TEAMALLAM/ALLAMMM.git && cd ALLAMMM && chmod +x tg && chmod +x RUNFA.sh && chmod +x FA && ./RUNFA.sh
 
 • ┉ • ┉ • ┉ • ┉ • ┉ • ┉ • ┉ •
 
@@ -23,18 +23,18 @@ git clone https://github.com/TEAMYOUSSRY/YOUSSRY.git && cd YOUSSRY  && chmod +x 
 
 ✟︙كود الرن ، 
 
-killall screen;cd YOUSSRY;./FA
+killall screen;cd ALLAMMM;./FA
 
 ✟︙كود الحذف ، 
 
-rm -rf YOUSSRY
+rm -rf ALLAMMM
 
 • ┉ • ┉ • ┉ • ┉ • ┉ • ┉ • ┉ •
 
 ✟︙للاستفسار واضافه الافكار  🔽
 
-مبرمج السورس @I_E_S_M
+مبرمج السورس @M_A_D_A_R_A_A
 
-قناه السورس @black_mariem
+قناه السورس @source_allam
 
-كروب الدعم  https://t.me/cafe_elsoo7ab
+كروب الدعم  https://t.me/REDDEVIILL
